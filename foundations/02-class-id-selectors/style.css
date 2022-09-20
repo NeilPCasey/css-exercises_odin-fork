@@ -1,0 +1,19 @@
+.oddNums {
+    background-color: #F99393;
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+
+.oddNumsLarge {
+    font-size: 24px;
+}
+
+#secondEl {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthEl {
+    background-color: #ADF54A;
+    font-size: 24px;
+    font-weight: bold;
+}
